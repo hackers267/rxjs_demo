@@ -16,7 +16,9 @@
     "@types/node": "^14.14.37",
     "@types/webpack": "^5.28.0",
     "@types/webpack-dev-server": "^3.11.3",
+    "html-webpack-plugin": "^5.3.1",
     "prettier": "^2.2.1",
+    "ts-loader": "^8.1.0",
     "webpack": "^5.31.2",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2"
